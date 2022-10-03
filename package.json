@@ -1,0 +1,19 @@
+{
+  "name": "v14-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Dwiki Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.0.1",
+    "dotenv": "^16.0.1"
+  }
+}
